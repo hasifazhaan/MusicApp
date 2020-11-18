@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/MusicApp/static/css/main.4b9bf767.chunk.css",
+    "main.js": "/MusicApp/static/js/main.9cb1bd21.chunk.js",
+    "main.js.map": "/MusicApp/static/js/main.9cb1bd21.chunk.js.map",
+    "runtime-main.js": "/MusicApp/static/js/runtime-main.a8042234.js",
+    "runtime-main.js.map": "/MusicApp/static/js/runtime-main.a8042234.js.map",
+    "static/js/2.cfcd1ca6.chunk.js": "/MusicApp/static/js/2.cfcd1ca6.chunk.js",
+    "static/js/2.cfcd1ca6.chunk.js.map": "/MusicApp/static/js/2.cfcd1ca6.chunk.js.map",
+    "index.html": "/MusicApp/index.html",
+    "precache-manifest.d66b93c8f84634919358e0b2f615cc54.js": "/MusicApp/precache-manifest.d66b93c8f84634919358e0b2f615cc54.js",
+    "service-worker.js": "/MusicApp/service-worker.js",
+    "static/css/main.4b9bf767.chunk.css.map": "/MusicApp/static/css/main.4b9bf767.chunk.css.map",
+    "static/js/2.cfcd1ca6.chunk.js.LICENSE.txt": "/MusicApp/static/js/2.cfcd1ca6.chunk.js.LICENSE.txt",
+    "static/media/Bhula.mp3": "/MusicApp/static/media/Bhula.4abaf1a1.mp3",
+    "static/media/Kaash_aisa_hota.mp3": "/MusicApp/static/media/Kaash_aisa_hota.25926667.mp3",
+    "static/media/Saari_ki_saari.mp3": "/MusicApp/static/media/Saari_ki_saari.d93c45e5.mp3",
+    "static/media/aaya_na_tu.mp3": "/MusicApp/static/media/aaya_na_tu.0a76f2ab.mp3",
+    "static/media/dil_chahte_ho.mp3": "/MusicApp/static/media/dil_chahte_ho.cc1016be.mp3",
+    "static/media/dil_chahte_ho.jpg": "/MusicApp/static/media/dil_chahte_ho.ff4fff19.jpg",
+    "static/media/hawa_banke.jpg": "/MusicApp/static/media/hawa_banke.16349c29.jpg",
+    "static/media/hawa_banke.mp3": "/MusicApp/static/media/hawa_banke.bcc61f31.mp3",
+    "static/media/kuch_to_bata.jpg": "/MusicApp/static/media/kuch_to_bata.21351f49.jpg",
+    "static/media/kuch_to_bata.mp3": "/MusicApp/static/media/kuch_to_bata.8c9e456b.mp3",
+    "static/media/logo.jpg": "/MusicApp/static/media/logo.61dd07ca.jpg",
+    "static/media/tujhe_kitna_chahe_aur_hum.mp3": "/MusicApp/static/media/tujhe_kitna_chahe_aur_hum.7c7f6898.mp3",
+    "static/media/tujhe_kitna_chahe_aur_hum.jpg": "/MusicApp/static/media/tujhe_kitna_chahe_aur_hum.a760e2b4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8042234.js",
+    "static/js/2.cfcd1ca6.chunk.js",
+    "static/css/main.4b9bf767.chunk.css",
+    "static/js/main.9cb1bd21.chunk.js"
+  ]
+}
